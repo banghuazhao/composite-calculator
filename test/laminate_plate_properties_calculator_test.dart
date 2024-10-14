@@ -1,6 +1,4 @@
-import 'package:composite_calculator/calculators/lamina_engineering_constants_calculator.dart';
 import 'package:composite_calculator/calculators/laminate_plate_properties_calculator.dart';
-import 'package:composite_calculator/models/lamina_engineering_constants_input.dart';
 import 'package:composite_calculator/models/laminate_plate_properties_input.dart';
 import 'package:flutter_test/flutter_test.dart';
 
