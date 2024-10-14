@@ -1,7 +1,7 @@
 name: composite_calculator
 description: "A new Flutter package to calculate properties for composite material."
-version: 0.0.1
-homepage:
+version: 1.0.0
+homepage: https://github.com/banghuazhao/composite-calculator
 
 environment:
   sdk: '>=3.3.0 <4.0.0'
