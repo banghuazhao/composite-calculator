@@ -1,6 +1,4 @@
-import 'package:composite_calculator/calculators/laminate_3d_properties_calculator.dart';
 import 'package:composite_calculator/composite_calculator.dart';
-import 'package:composite_calculator/models/laminate_3d_properties_input.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

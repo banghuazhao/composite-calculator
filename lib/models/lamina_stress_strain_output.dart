@@ -1,4 +1,3 @@
-import 'package:composite_calculator/models/analysis_type.dart';
 import 'package:composite_calculator/models/tensor_type.dart';
 
 class LaminaStressStrainOutput {

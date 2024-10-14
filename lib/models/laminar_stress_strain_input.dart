@@ -1,7 +1,5 @@
 import 'package:composite_calculator/models/tensor_type.dart';
 
-import 'analysis_type.dart';
-
 class LaminarStressStrainInput {
   double E1;
   double E2;
