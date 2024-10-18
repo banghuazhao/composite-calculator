@@ -8,7 +8,7 @@ Add this package to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  composite_calculator: ^1.0.0
+  composite_calculator: ^1.0.1
 ```
 
 Then, run:
