@@ -1,4 +1,5 @@
 export 'models/analysis_type.dart';
+export 'models/tensor_type.dart';
 
 export 'models/lamina_engineering_constants_input.dart';
 export 'models/lamina_engineering_constants_output.dart';
